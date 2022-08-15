@@ -1,0 +1,67 @@
+{
+    "shop-item": [
+        {
+            "id": 1,
+            "title": "BALSAM",
+            "price": 299,
+            "onSale": true,
+            "img": "./images/shop-item-1.png"
+        },
+        {
+            "id": 2,
+            "title": "ASHFORD",
+            "price": 315,
+            "onSale": true,
+            "img": "./images/shop-item-2.png"
+        },
+        {
+            "id": 3,
+            "title": "MANHATTAN PLANK",
+            "price": 425,
+            "onSale": false,
+            "img": "./images/shop-item-3.png"
+        },
+        {
+            "id": 4,
+            "title": "TREVISTA 80 TEXTURED",
+            "price": 453,
+            "onSale": false,
+            "img": "./images/shop-item-4.png"
+        },
+        {
+            "id": 5,
+            "title": "ADELAIDE 80",
+            "price": 542,
+            "onSale": false,
+            "img": "./images/shop-item-5.png"
+        },
+        {
+            "id": 6,
+            "title": "RICHMOND 80",
+            "price": 345,
+            "onSale": true,
+            "img": "./images/shop-item-6.png"
+        },
+        {
+            "id": 7,
+            "title": "ARDESIA",
+            "price": 322,
+            "onSale": true,
+            "img": "./images/shop-item-7.png"
+        },
+        {
+            "id": 8,
+            "title": "STRADA NOVA",
+            "price": 390,
+            "onSale": true,
+            "img": "./images/shop-item-8.png"
+        },
+        {
+            "id": 9,
+            "title": "MODERNA",
+            "price": 415,
+            "onSale": false,
+            "img": "./images/shop-item-9.png"
+        }
+    ]
+}
