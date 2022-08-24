@@ -5,66 +5,66 @@
       "img": "./images/product-model-1.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     },
     {
       "id": 2,
       "img": "./images/product-model-2.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     },
     {
       "id": 3,
       "img": "./images/product-model-3.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     },
     {
       "id": 4,
       "img": "./images/product-model-4.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     },
     {
       "id": 5,
       "img": "./images/product-model-5.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     },
     {
       "id": 6,
       "img": "./images/product-model-6.png",
       "name": "Дощовик прозорий Warning",
       "price": 800,
-      "isInStockXS": "true",
-      "isInStockS": "true",
-      "isInStockM": "true",
-      "isInStockL": "false",
-      "isInStockXL": "true"
+      "isInStockXS": true,
+      "isInStockS": true,
+      "isInStockM": true,
+      "isInStockL": false,
+      "isInStockXL": true
     }
   ]
 }
